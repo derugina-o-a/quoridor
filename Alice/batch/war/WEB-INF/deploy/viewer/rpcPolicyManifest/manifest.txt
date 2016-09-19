@@ -1,0 +1,5 @@
+# Module viewer
+# RPC service class, partial path of RPC policy file
+com.agilej.viewer.client.diagram.DiagramService, AA3CE79865BBD73B44A5A11E1D5D23AA.gwt.rpc
+com.google.gwt.logging.shared.RemoteLoggingService, EE9CCC3D43094DD24D53CD91042D8B72.gwt.rpc
+com.agilej.viewer.client.index.IndexService, F8C9FB8F62C1C8F5DA4BE3D88045B901.gwt.rpc
