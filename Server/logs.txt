@@ -1,0 +1,12 @@
+login_request: null
+game_mode_request: alice
+game_status_request: alice
+login_request: null
+game_mode_request: bob
+game_status_request: bob
+game_status_request: alice
+next_move_request: alice
+alice builds fence: {"y1":4,"y2":4,"x2":5,"x1":4}
+game_status_request: bob
+game_status_request: alice
+next_move_request: alice

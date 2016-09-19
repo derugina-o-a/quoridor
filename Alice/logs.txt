@@ -1,0 +1,13 @@
+login requested
+{"content":"1","type":"login_request"}
+PVPGame requested with enemy: bob
+The server answered : {"content":"{\"colour\":\"blue\",\"game_id\":\"121\"}","status":"wait_opponent_for_responce","type":"game_mode_responce"}
+status requested
+status: waiting_to_start
+status requested
+status: blue_turn
+next_move_request
+The server says: {"content":"1","status":"blue_turn","type":"next_move_responce"}
+status requested
+status: blue_turn
+next_move_request
